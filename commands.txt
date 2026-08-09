@@ -1,1 +1,2 @@
 pwd - prints the current directory ls - lists files and directories cd - changes the current directory
+git status - displays the repository status git add - stages changes git commit - saves staged changes git log - displays commit history
